@@ -1,4 +1,4 @@
-# cds.vim
+# CDS Vim Plugin
 
 This is a Vim plugin that provides syntax highlighting for SAP's [Core Data Services (CDS)](https://cap.cloud.sap/docs/cds/) when using the Vim text editor. 
 
